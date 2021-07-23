@@ -1,2 +1,3 @@
 #!/bin/bash
-ln -s /home/isucon/isucon5/.bashrc /home/isucon
+ln -s $HOME/isucon5/.bashrc $HOME
+ln -s $HOME/isucon5/.vimrc $HOME
